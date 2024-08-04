@@ -25,7 +25,7 @@ Hugard (Pronounced /ˈhjuːɡɑːrd/) is a Discord bot designed to facilitate se
 
 ## Customization
 
-The accent colour for embeds can be customized by changing the `THEME_COLOUR` variable in `main.py`.
+The accent colour for embeds can be customized by changing the `THEME_COLOUR` variable in `main.py` to any RGB value.
 
 ## Prerequisites
 
