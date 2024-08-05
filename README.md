@@ -52,11 +52,12 @@ The accent colour for embeds can be customized by changing the `THEME_COLOUR` va
     pip install -r requirements.txt
     ```
 
-4. Fill in the values for each variable in the `secrets/.env` file:
-   - `TOKEN`: Your Discord bot token
-   - `GUILD`: The ID of your Discord server
-   - `COINBASE_API`: Your Coinbase Commerce API key
-   - `OWNER_ID`: Your Discord ID
+4. Run the bot once and enter the requested details:
+    ```
+    python -OO main.py
+    ```
+    
+    *(Or you can manually fill them out in your `secrets/.env` file)*
 
 5. Run the bot:
     ```
